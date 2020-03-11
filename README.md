@@ -12,3 +12,6 @@
 
 ## Screen Shot
 <img src="note-taker.PNG">
+
+## Link to deployed app
+[click here](https://note-taker-final.herokuapp.com/)
